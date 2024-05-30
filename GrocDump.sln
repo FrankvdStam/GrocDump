@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9EA25092-EB31-41CB-B833-DAB3A4312A6E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrocDump.Gui", "src\GrocDump.Gui\GrocDump.Gui.csproj", "{B91458A5-FFCB-4031-88DD-6F7EA4B8F2EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D12AF2E-076F-4569-883B-041512BC8537}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B91458A5-FFCB-4031-88DD-6F7EA4B8F2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91458A5-FFCB-4031-88DD-6F7EA4B8F2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91458A5-FFCB-4031-88DD-6F7EA4B8F2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91458A5-FFCB-4031-88DD-6F7EA4B8F2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B91458A5-FFCB-4031-88DD-6F7EA4B8F2EE} = {9EA25092-EB31-41CB-B833-DAB3A4312A6E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {766FFC5D-C2F4-47D9-AFB9-87F3983A7F8C}
+	EndGlobalSection
+EndGlobal
